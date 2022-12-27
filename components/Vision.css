@@ -1,0 +1,38 @@
+.vision {
+    font-family: "Poppins", sans-serif;
+    text-align: left;
+    margin-top: 0rem;
+    background-color: white;
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: center;
+    align-items: center;
+}
+.vision img{
+    width: 20rem;
+}
+.vision p{
+    font-family: "Roboto Mono", sans-serif;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.vision div{
+    width: 60%;
+}
+
+@media screen and (max-width: 520px) {
+    .vision{
+        font-family: "Poppins", sans-serif;
+        text-align: left;
+        margin-top: 0rem;
+        background-color: white;
+        display: flex;
+        flex-direction: column;
+        /* flex-wrap: wrap; */
+        justify-content: center;
+        align-items: center;
+    }
+  }
+  
+

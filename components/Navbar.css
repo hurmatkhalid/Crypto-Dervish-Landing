@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lacquer&display=swap');
+.navbar-image{
+    width: 150px;
+    /* border: 2px solid red; */
+}
+
+.navbar{
+    display: flex;
+    background-color: rgb(242, 106, 129);
+    color: gold;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar-logo{
+    display: flex;
+    align-items: center;
+    font-family: 'Lacquer', cursive;
+}
+
+.navLinks{
+    margin-right: 2.5rem;
+}
+
