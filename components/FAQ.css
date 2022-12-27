@@ -1,31 +1,27 @@
-.faq{
-    background-color: gold;
-    padding: 1rem;
+.faq {
+	background-color: gold;
+	padding: 0.5rem;
 }
-.faqs{
-    margin: 0 auto;
-    max-width: 1080px;
-    width: 100%;
-    position: relative;
-    height: 100%;
+.faqs {
+	margin: 0 auto;
+	max-width: 1080px;
+	width: 100%;
+	position: relative;
+	height: 100%;
+	padding: 1rem;
 }
 
-.faqs h2{
-    font-family: "Poppins", sans-serif;
-    margin-top: 60px;
-    margin-bottom: 10px;
-    font-size: 40px;
-    line-height: 50px;
-    margin-top: 40px;
-    margin-bottom: 20px;
-    
-    
+.faqs h2 {
+	font-family: 'Poppins', sans-serif;
+	/* margin-top: 10px; */
+	margin-bottom: 10px;
+	font-size: 20px;
+	/* line-height: 50px; */
 }
-.faqs p{
-    font-family: "Poppins", sans-serif;
-    font-size: 18px;
-    line-height: 24px;
-    font-size: 18px;
-    line-height: 24px;
-
+.faqs p {
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+	line-height: 24px;
+	font-size: 18px;
+	line-height: 24px;
 }
